@@ -1,0 +1,5 @@
+DATABASE server name : MANISH-PC\SQLEXPRESS
+
+mybooks
+
+pypyodbc

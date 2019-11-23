@@ -1,0 +1,3 @@
+USE mybooks;
+
+CREATE TABLE books(id int PRIMARY KEY IDENTITY(1,1),Title VARCHAR(255),Author VARCHAR(255),ISBN int);
